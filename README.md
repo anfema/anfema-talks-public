@@ -1,5 +1,5 @@
 # anfema Talks
-> This repository contains all public available "anfema Talks" materials.
+> This repository contains all public available "anfema Talks" materials. Visit `material/` for more.
 
 ## About anfema
 We are striving for perfection. [anfema](https://anfe.ma/en) are a highly capable team who avidly create individual and sophisticated digital solutions.
